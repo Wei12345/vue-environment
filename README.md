@@ -1,5 +1,5 @@
-## Vue + Vuex + Webpack 基本環境
-> 使用Vue + Vuex + Webpack + Babel 基本環境：[Demo](https://wei12345.github.io/vue-demo/)
+## Vue + Vuex + Webpack基本環境
+> 使用Vue + Vuex + Webpack 基本環境：[Demo](https://wei12345.github.io/vue-environment/)
 
 ### 安裝dependencies
     npm install
