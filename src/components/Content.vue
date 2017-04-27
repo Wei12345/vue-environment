@@ -1,9 +1,9 @@
 <template>
-	<section>
-		<router-view></router-view>
-	</section>
+	<article>
+		Content.vue
+	</article>
 </template>
-	
+
 <script>
 </script>
 

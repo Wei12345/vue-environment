@@ -1,11 +1,13 @@
 <template>
 	<section>
-		<router-view></router-view>
+		404	
 	</section>
 </template>
-	
+
 <script>
+
 </script>
 
 <style lang="sass" scoped>
+	
 </style>
