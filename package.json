@@ -17,7 +17,7 @@
   "bugs": {
     "url": "https://github.com/Wei12345/vue-environment/issues"
   },
-  "homepage": "https://github.com/Wei12345/vue-environment#readme",
+  "homepage": "https://github.com/Wei12345/vue-environment",
   "dependencies": {
     "normalize.css": "^6.0.0",
     "vue": "^2.2.6",
